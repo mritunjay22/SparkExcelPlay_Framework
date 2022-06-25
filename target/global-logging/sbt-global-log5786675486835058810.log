@@ -1,0 +1,52 @@
+[debug] > Exec(early(addDefaultCommands), None, None)
+[debug] > Exec(addDefaultCommands, None, None)
+[debug] > Exec(early(initialize), None, None)
+[debug] > Exec(initialize, None, None)
+[debug] > Exec(early(addPluginSbtFile="""C:\Users\HP\AppData\Local\Temp\idea.sbt"""), None, None)
+[debug] > Exec(addPluginSbtFile="""C:\Users\HP\AppData\Local\Temp\idea.sbt""", None, None)
+[debug] > Exec(boot, None, None)
+[debug] > Exec(writeSbtVersion, None, None)
+[debug] > Exec(reload, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(onFailure loadFailed, None, None)
+[debug] > Exec(loadp, None, None)
+[info] welcome to sbt 1.6.2 (Oracle Corporation Java 1.8.0_333)
+[debug]       Load.loadUnit: plugins took 301.6269ms
+[debug]       Load.loadUnit: defsScala took 0.3303ms
+[debug] [Loading] Scanning directory C:\Users\HP\.sbt\1.0\plugins
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in C:\Users\HP\.sbt\1.0\plugins, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 38.4144 ms
+[debug]           Load.resolveProject(global-plugins) took 252.2562ms
+[debug]         Load.loadTransitive: finalizeProject(Project(id global-plugins, base: C:\Users\HP\.sbt\1.0\plugins, plugins: List(<none>))) took 351.5096ms
+[debug] [Loading] Done in C:\Users\HP\.sbt\1.0\plugins, returning: (global-plugins)
+[debug]       Load.loadUnit: loadedProjectsRaw took 380.5463ms
+[debug]       Load.loadUnit: cleanEvalClasses took 1.1367ms
+[debug]     Load.loadUnit(file:/C:/Users/HP/.sbt/1.0/plugins/, ...) took 706.0742ms
+[debug]   Load.apply: load took 1527.4413ms
+[debug]   Load.apply: resolveProjects took 13.1825ms
+[debug]   Load.apply: finalTransforms took 157.2932ms
+[debug]   Load.apply: config.delegates took 23.0479ms
+[debug]   Load.apply: Def.make(settings)... took 716.1069ms
+[debug]   Load.apply: structureIndex took 233.482ms
+[debug]   Load.apply: mkStreams took 5.3333ms
+[info] loading global plugins from C:\Users\HP\.sbt\1.0\plugins
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Load.defaultLoad until apply took 7134.338ms
+[debug]           Load.loadUnit: plugins took 64.1452ms
+[debug]           Load.loadUnit: defsScala took 0.0093ms
+[debug] [Loading] Scanning directory D:\Scala_Projects\SparkPlayExcel\play-samples-play-scala-hello-world-tutorial\project
+[debug]             Load.loadUnit: mkEval took 21.7122ms

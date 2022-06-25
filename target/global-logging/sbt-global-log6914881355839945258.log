@@ -1,0 +1,15 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to D:\Scala_Projects\SparkPlayExcel\play-samples-play-scala-hello-world-tutorial\target\scala-2.12\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:playexcelspark
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[warn] In the last 10 seconds, 7.374 (75.6%) were spent in GC. [Heap: 0.57GB free of 0.81GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] In the last 10 seconds, 7.376 (75.2%) were spent in GC. [Heap: 0.58GB free of 0.94GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] In the last 10 seconds, 5.665 (59.1%) were spent in GC. [Heap: 0.57GB free of 1.00GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] In the last 7 seconds, 5.123 (74.3%) were spent in GC. [Heap: 0.40GB free of 1.33GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] Canceling execution...
+[debug] Forcing garbage collection...

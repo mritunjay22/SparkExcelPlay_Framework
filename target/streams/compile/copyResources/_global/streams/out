@@ -1,0 +1,5 @@
+[debug] Copy resource mappings: 
+[debug] 	(D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\conf\application.conf,D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\target\scala-2.12\classes\application.conf)
+[debug] 	(D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\conf\logback.xml,D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\target\scala-2.12\classes\logback.xml)
+[debug] 	(D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\conf\messages,D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\target\scala-2.12\classes\messages)
+[debug] 	(D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\conf\routes,D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\target\scala-2.12\classes\routes)

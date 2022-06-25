@@ -1,0 +1,13 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\target\scala-2.12\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:playexcelspark
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Forcing garbage collection...
+[warn] In the last 446 seconds, 5.75 (1.3%) were spent in GC. [Heap: 0.45GB free of 0.57GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[success] Total time: 704 s (11:44), completed 6 Jun, 2022 3:25:58 PM
+[debug] > Exec(idea-shell, None, None)

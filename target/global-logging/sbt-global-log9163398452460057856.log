@@ -1,0 +1,11 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 204 s (03:24), completed 10 Jun, 2022 12:17:36 PM
+[debug] > Exec(idea-shell, None, None)
+[warn] build source files have changed
+[warn] modified files: 
+[warn]   D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\build.sbt
+[warn] Apply these changes by running `reload`.
+[warn] Automatically reload the build when source changes are detected by setting `Global / onChangedBuildSource := ReloadOnSourceChanges`.
+[warn] Disable this warning by setting `Global / onChangedBuildSource := IgnoreSourceChanges`.

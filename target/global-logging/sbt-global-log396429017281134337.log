@@ -1,0 +1,9 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:playexcelspark
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 115 s (01:55), completed 6 Jun, 2022 3:12:51 PM
+[debug] > Exec(idea-shell, None, None)

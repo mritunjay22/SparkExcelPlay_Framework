@@ -1,0 +1,84 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 9 Scala sources and 1 Java source to D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\target\scala-2.12\classes ...
+[warn] In the last 8 seconds, 7.103 (99.0%) were spent in GC. [Heap: 0.36GB free of 0.49GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:playexcelspark
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\target\scala-2.12\classes ...
+[info] done compiling
+[debug] Forcing garbage collection...
+[warn] In the last 979 seconds, 8.657 (0.9%) were spent in GC. [Heap: 0.37GB free of 0.58GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:playexcelspark
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\target\scala-2.12\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:playexcelspark
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\target\scala-2.12\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:playexcelspark
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\target\scala-2.12\classes ...
+[info] done compiling
+[debug] Forcing garbage collection...
+[warn] In the last 966 seconds, 7.877 (0.8%) were spent in GC. [Heap: 0.41GB free of 0.61GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:playexcelspark
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[warn] In the last 119 seconds, 6.808 (5.7%) were spent in GC. [Heap: 0.47GB free of 0.62GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\target\scala-2.12\classes ...
+[info] done compiling
+[debug] Forcing garbage collection...
+[warn] In the last 855 seconds, 13.146 (1.5%) were spent in GC. [Heap: 0.48GB free of 0.65GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:playexcelspark
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\target\scala-2.12\classes ...
+[error] D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\app\controllers\HomeController.scala:46:72: too many arguments (5) for constructor SparkObjectReq: (path: String, userName: String, pass: String, tableName: String)controllers.SparkObjectReq
+[error]     val sparkObj = new SparkObjectReq(filePath,user,password,tableName,format)  //Write To DB
+[error]                                                                        ^
+[error] one error found
+[debug] Forcing garbage collection...
+[warn] In the last 656 seconds, 9.456 (1.4%) were spent in GC. [Heap: 0.46GB free of 0.64GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\target\scala-2.12\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:playexcelspark
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[warn] In the last 292 seconds, 13.092 (4.5%) were spent in GC. [Heap: 0.43GB free of 0.57GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\target\scala-2.12\classes ...
+[info] done compiling
+[debug] Forcing garbage collection...
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[warn] In the last 517 seconds, 8.286 (1.6%) were spent in GC. [Heap: 0.47GB free of 0.64GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[debug] Exporting web-assets:playexcelspark
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\target\scala-2.12\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:playexcelspark
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[warn] Canceling execution...
+[error] Cancelled: run
+[error] Cancelled: run
+[error] Use 'last' for the full log.
+[debug] > Exec(idea-shell, None, None)

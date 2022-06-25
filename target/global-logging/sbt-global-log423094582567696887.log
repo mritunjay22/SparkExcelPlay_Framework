@@ -1,0 +1,33 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 3 Scala sources to D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\target\scala-2.12\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:playexcelspark
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to D:\Scala_Projects\SparkPlayExcel\ScalaSparkPlayRead\target\scala-2.12\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:playexcelspark
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[warn] In the last 10 seconds, 7.46 (75.6%) were spent in GC. [Heap: 0.58GB free of 0.85GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] In the last 10 seconds, 7.904 (79.9%) were spent in GC. [Heap: 0.57GB free of 0.99GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] In the last 16 seconds, 9.706 (61.0%) were spent in GC. [Heap: 0.70GB free of 1.36GB, max 1.36GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] In the last 15 seconds, 8.573 (58.1%) were spent in GC. [Heap: 0.30GB free of 1.25GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] In the last 12 seconds, 7.856 (71.2%) were spent in GC. [Heap: 0.39GB free of 1.25GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] Canceling execution...
+[debug] Forcing garbage collection...
+[warn] In the last 19 seconds, 16.789 (89.5%) were spent in GC. [Heap: 0.48GB free of 1.33GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] In the last 17 seconds, 15.344 (94.9%) were spent in GC. [Heap: 0.48GB free of 1.33GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[error] Cancelled: run
+[error] Cancelled: run
+[error] Use 'last' for the full log.
+[debug] > Exec(idea-shell, None, None)
+[warn] In the last 10 seconds, 6.487 (70.1%) were spent in GC. [Heap: 0.48GB free of 1.33GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] In the last 9 seconds, 5.786 (65.8%) were spent in GC. [Heap: 0.48GB free of 1.33GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] In the last 15 seconds, 10.105 (70.9%) were spent in GC. [Heap: 0.48GB free of 1.33GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] In the last 7 seconds, 5.141 (73.5%) were spent in GC. [Heap: 0.48GB free of 1.33GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] In the last 17 seconds, 13.64 (81.3%) were spent in GC. [Heap: 0.48GB free of 1.33GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
